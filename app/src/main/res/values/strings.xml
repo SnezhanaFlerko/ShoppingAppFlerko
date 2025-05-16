@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingListApp_Flerko</string>
+    <string name="total_price">Общая стоимость: %.2f ₽</string>
+</resources>
